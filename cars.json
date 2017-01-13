@@ -1,0 +1,12 @@
+{
+    "ferrari" : {
+        "name": "F50"
+    },
+    "GM" : {
+        "name": "Omega"
+    },
+    "Tesla":{
+        "name" : "Tesla1"
+    }
+
+}
